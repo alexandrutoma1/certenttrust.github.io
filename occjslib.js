@@ -1,5 +1,5 @@
 const config = {
-    "occApiUrl": "https://cde.certdigital.ro",
+    "occApiUrl": "https://corsproxy.io/?https://cde.certdigital.ro",
     "occUrl": "https://cde.certdigital.ro",
     "publicRepoPath": "/occ/public-repo-show",
     "getCertifiedEltsPath": "/occ/api/get-filtered-sheets-metadata",
